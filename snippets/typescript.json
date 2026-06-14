@@ -1,6 +1,6 @@
 {
   "EPITECH Header TS": {
-    "prefix": "epiheader",
+    "prefix": "$epi",
     "body": [
       "/*",
       "** EPITECH PROJECT, ${1:2025}",

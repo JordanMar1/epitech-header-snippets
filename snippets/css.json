@@ -1,6 +1,6 @@
 {
   "EPITECH Header CSS": {
-    "prefix": "epiheader",
+    "prefix": "$epi",
     "body": [
       "/*",
       "** EPITECH PROJECT, ${1:2026}",

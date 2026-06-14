@@ -1,6 +1,6 @@
 {
   "EPITECH Header PHP": {
-    "prefix": "epiheader",
+    "prefix": "$epi",
     "body": [
       "<?php",
       "/*",

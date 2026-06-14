@@ -1,6 +1,6 @@
 {
   "EPITECH Header Elixir": {
-    "prefix": "epiheader",
+    "prefix": "$epi",
     "body": [
       "##",
       "## EPITECH PROJECT, ${1:2026}",
