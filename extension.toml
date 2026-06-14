@@ -1,6 +1,6 @@
 id = "epitech-header-snippets"
 name = "EPITECH Header"
-version = "1.0"
+version = "1.0.0"
 schema_version = 1
 authors = ["Jordan Marescaux <jordan.marescaux@epitech.eu>"]
 description = "insert your epitech header easily"
