@@ -4,7 +4,7 @@ version = "1.0.0"
 schema_version = 1
 authors = ["Jordan Marescaux <jordan.marescaux@epitech.eu>"]
 description = "insert your epitech header easily"
-repository = "https://github.com/JordanMar1/Zed-Epitech-Header"
+repository = "https://github.com/JordanMar1/epitech-header-snippets.git"
 snippets = [
   "./snippets/c.json",
   "./snippets/cpp.json",
