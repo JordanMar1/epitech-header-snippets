@@ -1,0 +1,15 @@
+{
+  "EPITECH Header PHP": {
+    "prefix": "epiheader",
+    "body": [
+      "<?php",
+      "/*",
+      "** EPITECH PROJECT, ${1:2025}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*/",
+      "$0"
+    ]
+  }
+}

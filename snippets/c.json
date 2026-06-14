@@ -1,0 +1,14 @@
+{
+  "EPITECH Header C": {
+    "prefix": "epiheader",
+    "body": [
+      "/*",
+      "** EPITECH PROJECT, ${1:2026}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*/",
+      "$0"
+    ]
+  }
+}

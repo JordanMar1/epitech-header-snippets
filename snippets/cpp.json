@@ -1,0 +1,37 @@
+{
+  "EPITECH Header C++": {
+    "prefix": "epiheader",
+    "body": [
+      "/*",
+      "** EPITECH PROJECT, ${1:2026}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*/",
+      "$0"
+    ]
+  },
+  "EPITECH C++ Class": {
+    "prefix": "epiclass",
+    "body": [
+      "/*",
+      "** EPITECH PROJECT, ${1:2026}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*/",
+      "",
+      "#pragma once",
+      "",
+      "class ${4:classname} {",
+      "    public:",
+      "        ${4:classname}();",
+      "        ~${4:classname}();",
+      "",
+      "    private:",
+      "        $5",
+      "};",
+      "$0"
+    ]
+  }
+}

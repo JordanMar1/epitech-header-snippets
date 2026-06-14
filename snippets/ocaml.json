@@ -1,0 +1,14 @@
+{
+  "EPITECH Header OCaml": {
+    "prefix": "epiheader",
+    "body": [
+      "(*",
+      "** EPITECH PROJECT, ${1:2025}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*)",
+      "$0"
+    ]
+  }
+}
