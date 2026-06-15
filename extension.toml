@@ -7,7 +7,7 @@ description = "insert your epitech header easily"
 repository = "https://github.com/JordanMar1/epitech-header-snippets.git"
 snippets = [
   "./snippets/c.json",
-  "./snippets/cpp.json",
+  "./snippets/c++.json",
   "./snippets/css.json",
   "./snippets/elixir.json",
   "./snippets/go.json",
@@ -23,7 +23,6 @@ snippets = [
   "./snippets/python.json",
   "./snippets/ruby.json",
   "./snippets/rust.json",
-  "./snippets/scala.json",
   "./snippets/shell.json",
   "./snippets/sql.json",
   "./snippets/toml.json",

@@ -1,6 +1,6 @@
 {
   "EPITECH Header C": {
-    "prefix": "$epi",
+    "prefix": "$epiC",
     "body": [
       "/*",
       "** EPITECH PROJECT, ${1:2026}",
@@ -8,6 +8,21 @@
       "** File description:",
       "** ${3:description}",
       "*/",
+      "$0"
+    ]
+  },
+  "EPITECH Header H": {
+    "prefix": "$epiH",
+    "body": [
+      "/*",
+      "** EPITECH PROJECT, ${1:2026}",
+      "** ${2:filename}",
+      "** File description:",
+      "** ${3:description}",
+      "*/",
+      "#ifndef ${4:STRUCT_H}",
+      "    #define ${4:STRUCT_H}",
+      "#endif /* ${4:STRUCT_H}*/",
       "$0"
     ]
   }

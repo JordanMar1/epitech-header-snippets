@@ -1,6 +1,6 @@
 {
   "EPITECH Header C++": {
-    "prefix": "$epiH",
+    "prefix": "$epiC",
     "body": [
       "/*",
       "** EPITECH PROJECT, ${1:2026}",
@@ -12,7 +12,7 @@
     ]
   },
   "EPITECH C++ Class": {
-    "prefix": "$epiC",
+    "prefix": "$epiH",
     "body": [
       "/*",
       "** EPITECH PROJECT, ${1:2026}",
